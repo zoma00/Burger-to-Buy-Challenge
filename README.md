@@ -16,10 +16,10 @@ Burger To Buy Challenge:
 
 5. Once the user finishes selecting items, display their order with the list of items and the total price.
 
-6. This challenge can be a fun exercise for practicing user input, data manipulation, and simple calculations in JavaScript.
+6. This challenge can be a fun exercise for practising user input, data manipulation, and simple calculations in JavaScript.
 
 
-code Explaination:
+code Explanation:
 -------------------
 The code you provided is a JavaScript program that simulates a burger ordering system. 
 Here's a breakdown of the key parts you mentioned:
@@ -50,7 +50,7 @@ const menu = {
 function displayMenu() {
     console.log("Menu:");
     for (let item in menu) {
-        console.log(`$${item}: $${menu[item]}`);  //for in to iterate over enumerable properties of an object.
+        console. log(`$${item}: $${menu[item]}`);  //for in to iterate over enumerable properties of an object.
     }
 }
 
@@ -153,7 +153,7 @@ Here's a brief explanation of the differences:
    - Iterates over the values directly rather than the keys. (very important).
 
    
-   - Works with iterable objects that have a Symbol.iterator property.
+   - Works with iterable objects that have a Symbol. iterator property.
    - Example:
      ```javascript
      for (let value of iterable) {

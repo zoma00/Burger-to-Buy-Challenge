@@ -1,12 +1,9 @@
-# Burger-to-Buy-Challenge
 
-Here's a streamlined README documentation for your "Burger-to-Buy-Challenge" project, focusing on prerequisites and cloning instructions:
-
-```markdown
 # Burger-to-Buy-Challenge
 
 ## Overview
-The **Burger To Buy Challenge** is a JavaScript program that simulates a burger ordering system. Users can select from a menu of burgers, calculate their total order cost, and view their selections.
+The **Burger To Buy Challenge** is a JavaScript program that simulates a burger ordering system.
+Users can select from a menu of burgers, calculate their total order cost, and view their selections.
 
 ## Prerequisites
 To run this project, you need:
